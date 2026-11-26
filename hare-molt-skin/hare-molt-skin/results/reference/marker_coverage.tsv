@@ -1,7 +1,0 @@
-set	n_defined	n_found	genes_found	genes_missing
-melanocyte	7	7	PMEL,MLANA,TYR,TYRP1,DCT,MITF,KIT	
-dermal_papilla	7	6	CORIN,ALPL,LEF1,WIF1,CRABP1,PROM1	SOX2
-hair_shaft	7	6	KRT31,KRT35,KRT85,MSX2,HOXC13,FOXN1	KRT86
-inner_root_sheath	4	2	TCHH,GATA3	KRT25,KRT27
-epidermis	6	2	KRT5,KRT1	KRT14,KRT10,LOR,IVL
-proliferation	5	5	MKI67,TOP2A,CCNB1,CDK1,BIRC5	
