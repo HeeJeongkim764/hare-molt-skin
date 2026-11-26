@@ -1,0 +1,4 @@
+RSEM 파일 15개: A_Brown, A_Intermediate, A_White, B_Brown, B_Intermediate, B_White, C_Brown, C_Intermediate, C_White, D_Brown, D_Intermediate, D_White, E_Brown, E_Intermediate, E_White
+주석: FASTA 헤더에서 Trinity → Ensembl 42677개 추출
+기호가 붙은 유전자 단위: 41487/42677
+같은 기호 합산 후 유전자 수: 14498

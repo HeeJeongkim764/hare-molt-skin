@@ -1,0 +1,8 @@
+feature	type	ss_between	p_stage	diff_W_minus_B	p_W_vs_B	n_permutations
+melanocyte	marker_set	0.874358	0.651235	0.522404	0.379372	7776
+dermal_papilla	marker_set	0.655928	0.326389	0.486182	0.144805	7776
+hair_shaft	marker_set	0.062908	0.839506	-0.139916	0.764918	7776
+inner_root_sheath	marker_set	0.118563	0.858796	-0.093768	0.814043	7776
+epidermis	marker_set	1.015601	0.186728	0.629679	0.064815	7776
+proliferation	marker_set	2.797133	0.000772	1.056453	0.000257	7776
+ASIP	gene	17.227434	0.02392	2.331128	0.014403	7776
